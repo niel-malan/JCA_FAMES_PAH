@@ -1,0 +1,10 @@
+*.aux
+*.bbl
+*.blg
+*.log
+*.spt
+*.bak
+*.spl
+.project
+.texclipse
+tmp/
